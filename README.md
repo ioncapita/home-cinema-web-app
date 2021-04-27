@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Link: https://home-cinema-web-app.vercel.app/ Enjoy!
+
 First, run the development server:
 
 ```bash
